@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "posteazaMedii01",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.posteazaMedii01",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "posteazaMediiContestatii02",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.posteazaMediiContestatii02",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "posteazaMediiContestatii03",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.posteazaMediiContestatii03",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "posteazaMediiContestatii04",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.posteazaMediiContestatii04",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "inroleazaSimplu05",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.inroleazaSimplu05",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "inroleazaCicluStudii06",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.inroleazaCicluStudii06",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "inroleazaCicluStudiiContestatii07",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.inroleazaCicluStudiiContestatii07",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "coliziuniMedie08",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.coliziuniMedie08",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "coliziuniCicluStudii09",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.coliziuniCicluStudii09",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "coliziuniCicluStudiiContestatii10",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.coliziuniCicluStudiiContestatii10",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 6
+    },
+    {
+      "name": "exceptieSimplu11",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.exceptieSimplu11",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "toateFunctionalitatile12",
+      "setup": "",
+      "run": "gradle test --tests org.example.TestMain.toateFunctionalitatile12",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 6
+    }
+  ]
+}

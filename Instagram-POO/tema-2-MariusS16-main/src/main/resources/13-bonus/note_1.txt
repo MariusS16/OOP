@@ -1,0 +1,3 @@
+Alice - 8.5
+Carol - 8.0
+Bob - 9.2
